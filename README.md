@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Remove the background from JPG images with ease using Python, Tkinter, and OpenCV!</b>
+  <b>Remove the background from JPG images with ease using Python, Tkinter, and RemBG!</b>
 </p>
 
 <h2>📋 Requirements</h2>
