@@ -1,10 +1,6 @@
 ﻿<h1 align="center">🎨 JPG Background Remover 🎨</h1>
 
 <p align="center">
-  <img src="screenshot.png" alt="Screenshot of the background remover GUI">
-</p>
-
-<p align="center">
   <b>Remove the background from JPG images with ease using Python, Tkinter, and RemBG!</b>
 </p>
 
